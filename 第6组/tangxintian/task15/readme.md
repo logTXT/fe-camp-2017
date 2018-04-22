@@ -4,8 +4,8 @@
 
 1. 命令行进入项目目录
 
-2. 启动服务器 `node sever`
+2. 安装依赖项 `npm install`
 
-3. 进入页面存放目录 `cd static`
+3. 启动服务器 `node sever`
 
-4. 打开页面 `index.html`
+4. 打开页面 `static\index.html`
